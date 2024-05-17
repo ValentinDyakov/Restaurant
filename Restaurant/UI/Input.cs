@@ -37,8 +37,8 @@ class input{
             else if(splitInputs[0].ToLower() == "инфо")
             {
                 int index = menuDict[splitInputs[1]];
-                System.Console.WriteLine(menuList[index]);
-                if(menuList[index].ToString()
+                System.Console.WriteLine(menuList[index].GetType());
+                //if(menuList[index].GetType()){}
                 System.Console.WriteLine("Информация за продукт: " + menuList[index].Name);
                 System.Console.WriteLine("");
             }
