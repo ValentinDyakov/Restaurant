@@ -8,25 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/valentindiakov/.nuget/packages/": {}
+    "C:\\Users\\Valentin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/valentindiakov/Desktop/university/Code/Kursov Proekt/Restaurant/Restaurant.csproj",
+      "projectUniqueName": "C:\\Users\\Valentin\\Documents\\GitHub\\Restaurant\\Restaurant\\Restaurant.csproj",
       "projectName": "Restaurant",
-      "projectPath": "/Users/valentindiakov/Desktop/university/Code/Kursov Proekt/Restaurant/Restaurant.csproj",
-      "packagesPath": "/Users/valentindiakov/.nuget/packages/",
-      "outputPath": "/Users/valentindiakov/Desktop/university/Code/Kursov Proekt/Restaurant/obj/",
+      "projectPath": "C:\\Users\\Valentin\\Documents\\GitHub\\Restaurant\\Restaurant\\Restaurant.csproj",
+      "packagesPath": "C:\\Users\\Valentin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Valentin\\Documents\\GitHub\\Restaurant\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/valentindiakov/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Valentin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -39,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -55,12 +59,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
