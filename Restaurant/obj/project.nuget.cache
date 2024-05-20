@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0jWstMGbbBVaBF1Lf8qWmorWOlbyWUalMNiOBX7ufE8XM8g4Ed7dYM9lVf8yiddd2dc330Fa8z6CBmZop1Q+Iw==",
+  "dgSpecHash": "JURKIEkKCRXOb1ikyWm5yYgP2PHGenfVHA7R1ZI3teqiITdQywTodKpmg4bUQ9cJTGd3m/R1SAuHEwWr7F6gfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valentin\\Documents\\GitHub\\Restaurant\\Restaurant\\Restaurant.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/Restaurant.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

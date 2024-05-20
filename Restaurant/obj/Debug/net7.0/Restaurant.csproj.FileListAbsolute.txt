@@ -26,18 +26,32 @@
 /Users/valentindiakov/Desktop/university/Code/Kursov Proekt/Restaurant/obj/Debug/net7.0/Restaurant.pdb
 /Users/valentindiakov/Desktop/university/Code/Kursov Proekt/Restaurant/obj/Debug/net7.0/Restaurant.genruntimeconfig.cache
 /Users/valentindiakov/Desktop/university/Code/Kursov Proekt/Restaurant/obj/Debug/net7.0/ref/Restaurant.dll
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\bin\Debug\net7.0\Restaurant.exe
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\bin\Debug\net7.0\Restaurant.deps.json
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\bin\Debug\net7.0\Restaurant.runtimeconfig.json
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\bin\Debug\net7.0\Restaurant.dll
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\bin\Debug\net7.0\Restaurant.pdb
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.AssemblyInfoInputs.cache
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.AssemblyInfo.cs
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.csproj.CoreCompileInputs.cache
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.sourcelink.json
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.dll
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\refint\Restaurant.dll
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.pdb
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\Restaurant.genruntimeconfig.cache
-C:\Users\Valentin\Documents\GitHub\Restaurant\Restaurant\obj\Debug\net7.0\ref\Restaurant.dll
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.exe
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.deps.json
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.runtimeconfig.json
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.dll
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.pdb
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfoInputs.cache
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfo.cs
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.csproj.CoreCompileInputs.cache
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.sourcelink.json
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.dll
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/refint/Restaurant.dll
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.pdb
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.genruntimeconfig.cache
+C:/Users/Valentin/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/ref/Restaurant.dll
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.deps.json
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.runtimeconfig.json
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.dll
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/bin/Debug/net7.0/Restaurant.pdb
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfoInputs.cache
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfo.cs
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.csproj.CoreCompileInputs.cache
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.dll
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/refint/Restaurant.dll
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.pdb
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/Restaurant.genruntimeconfig.cache
+/Users/valentindiakov/Documents/GitHub/Restaurant/Restaurant/obj/Debug/net7.0/ref/Restaurant.dll
